@@ -9,5 +9,6 @@
  		<web-uri>DemoWeb.war</web-uri>
  		<context-root>DemoWeb</context-root>
  	</web>
- </module> 
+ </module>
+ 
  </application> 
